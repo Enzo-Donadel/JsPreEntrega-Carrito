@@ -1,0 +1,12 @@
+body {
+    background-image: url('../img/Background.jpg');    
+    background-size: cover;
+}
+
+.Title {
+  color:red;
+}
+
+.font-white {
+    color:white;
+}
